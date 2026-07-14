@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+mistralai
+python-dotenv
+langchain
+langchain-mistralai
+fastembed
+pypdf
+faiss-cpu
+langchain-community
+langchain-text-splitters
+chromadb
+langchain_chroma
